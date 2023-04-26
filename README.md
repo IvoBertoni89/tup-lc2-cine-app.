@@ -1,2 +1,2 @@
-# tup-lc2-cine-app.
+# tup-lc2-cine-app
 App de cine 
